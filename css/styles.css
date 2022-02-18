@@ -1,0 +1,182 @@
+body
+{
+    text-align: center;
+    font-family: "Merriweather",serif;
+    margin:0px;
+    color:#40514E;
+}
+.top-section
+{
+    background-color: #E4F9F5;
+}
+h1
+{
+    font-size:5.62em;
+    font-family: 'Sacramento',cursive;
+    color:#66BFBF;
+}
+h2
+{
+    font-family: 'Montserat',sans-serif;
+    font-size: 2em;
+    color:#66BFBF;
+    font-weight:normal;
+
+}
+h3
+{
+    font-family: 'Montserat',sans-serif;
+    color:#11999E;
+}
+
+a
+{
+    color:#11999E;
+}
+
+.upper-cloud
+{
+    position: relative;
+    left:20%;
+    padding:0px 10px;
+}
+.lower-cloud
+{
+    position:absolute;
+    left:25%;
+}
+
+.image-section
+{
+    padding: 2% 0% 1%;
+}
+
+hr
+{
+    border: none;
+    border-bottom: 10px dotted #d3eeee;
+    width:5%;
+    
+}
+
+.my-photo
+{
+    height:200px;
+    width:200px;
+}
+
+.python-image,.javascript-image
+{
+    width:20%;
+    float:left;
+    margin-right: 30px;
+    
+}
+
+.javascript-image
+{
+    float:right;
+    margin-left:30px;
+}
+
+.rounded-border-img
+{
+    border-radius: 10%;
+}
+
+.my-skills
+{
+    margin: 50px 20%;
+    padding:0% 5%;
+
+}
+
+.skill-row-1
+{
+    text-align: left;
+    display:block;
+    margin: 50px 0px;
+}
+
+.skill-row-2
+{
+    text-align: left;
+    margin:100px 0px;
+    display:block;
+}
+
+.skill-name,.skill-desc
+{
+    margin:10px 20px;
+}
+
+.skill-desc
+{
+    font-size: 1.2em;
+}
+
+.title
+{
+    margin:10px 0px;
+}
+
+.mountain
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+.contact-me
+{
+    padding:5px;
+}
+
+p
+{
+    font-family: "Merriweather",serif;
+    line-height: 150%;
+}
+
+.bold
+{
+    font-weight: bold;
+    font-size:1.1em;
+}
+
+.contact-me-btn
+{
+    display:block;
+    margin: 20px auto 50px auto;
+    padding: 5px;
+    font-size: 1.5em;
+    font-family: "Merriweather",serif;
+    color:white;
+    background-color: #66BFBF;
+    border: solid 2px #66BFBF;
+    line-height:150%;
+    padding: 5px 20px;
+    border-radius: 8;
+
+    
+}
+
+.bottom-section
+{
+    background-color: #66BFBF;
+    margin:0 auto;
+    padding: 30px;
+}
+
+.sm-link
+{
+    color:#11999E;
+    line-height: 150%;
+    font-size: x-large;
+    padding:10px;
+    text-decoration: none ;
+}
+
+.copy-right
+{
+    color:#EAF6F6;
+}
